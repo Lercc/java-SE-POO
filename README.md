@@ -40,6 +40,14 @@
     <img src="./md/clases.jpg" alt="img">
 </div>
 
+## MODULARIDAD
+<div align="center">
+    <img src="./md/modularidad.jpg" alt="img">
+</div>
+<div align="center">
+    <img src="./md/modularidad-ii.jpg" alt="img">
+</div>
+
 ## ABSTRACCIÓN
 <div align="center">
     <img src="./md/abstraccion.jpg" alt="img">
