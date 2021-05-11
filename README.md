@@ -31,8 +31,16 @@
 <div align="center">
     <img src="./md/objetos-ii.jpg" alt="img">
 </div>
+
+### DECLARACIÓN E INSTANCIACIÓN DE  OBJETOS
 <div align="center">
-    <img src="./md/metodos.jpg" alt="img">
+    <img src="./md/declaracion.jpg" alt="img">
+</div>
+<div align="center">
+    <img src="./md/instaciacion.jpg" alt="img">
+</div>   
+<div align="center">
+    <img src="./md/declarar-e-instanciar.jpg" alt="img">
 </div>
 
 ## CLASES
